@@ -1,6 +1,4 @@
-# Project Title
-
-Rank Tracker by Stanislav Hradovyy
+# Rank Tracker by Stanislav Hradovyy
 
 ## Environment Variables
 
